@@ -64,6 +64,7 @@ class SingleLinkedList:
             else:
                 p.link = new_node
 
-    def insert_before(self, data, x)
+    def insert_before(self, data, x):
+        pass
         
      
